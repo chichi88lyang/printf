@@ -4,7 +4,7 @@
 
 **ABOUT**
 :----
-This repository contains alx printf project being done collaboratively with [Senait Kello](https://www.linkedin.com/in/senait-asefa-811008217)
+This repository contains alx printf project being done collaboratively
 
 ## DIRECTORIES
 
