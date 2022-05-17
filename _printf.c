@@ -1,7 +1,9 @@
 #include "main.h"
 #include <stdlib.h>
+
 int print_helper(printh_t *help_s, va_list args);
 printh_t *init_help_s(const char *, va_list args);
+
 /**
   * _printf - Prints variatic arguments based on format string.
   * @format: String passed, may contain zero, or more directives.
