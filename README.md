@@ -15,7 +15,7 @@ This repository contains alx printf project being done collaboratively
 
 ------------------------------------------------------------------------------
 
-**CONTACT**
+**CONTACT US**
 :----:
 
-[twitter](https://www.twitter.com/FOCUSITSTUDIO1),      [Website in progress](https://www.github.com/chichi88lyang) or    [Linkedin](https://www.linkedin.com/in/focusitstudio1)
+[ [Cacious](https://www.twitter.com/FOCUSITSTUDIO1).] [ [Senait Kello](https://www.linkedin.com/in/senait-asefa-811008217).]
