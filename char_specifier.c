@@ -73,10 +73,12 @@ char *get_percent(va_list args, char *mods)
 	{
 	}
 
-	str = malloc(1);
+	str = malloc(2);
 	if (!str)
 		return (NULL);
 	str[0] = '%';
+	str[1] = '\0';
+
 	return (str);
 }
 /**
